@@ -1,7 +1,6 @@
 class Solution {
     /*void sym(Node n){
         
-        
         if(n==null)return;
         
         Node temp=n.left;
